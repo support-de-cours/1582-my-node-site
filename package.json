@@ -1,0 +1,19 @@
+{
+  "name": "mynodesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/support-de-cours/1582-my-node-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/support-de-cours/1582-my-node-site/issues"
+  },
+  "homepage": "https://github.com/support-de-cours/1582-my-node-site#readme"
+}
