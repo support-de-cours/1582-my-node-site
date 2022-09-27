@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/support-de-cours/1582-my-node-site/issues"
   },
-  "homepage": "https://github.com/support-de-cours/1582-my-node-site#readme"
+  "homepage": "https://github.com/support-de-cours/1582-my-node-site#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
